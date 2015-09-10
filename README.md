@@ -10,6 +10,8 @@ So far I have been confused learning these tools
 * [github] (https://github.com/githubteacher/dst4l-sept201)
 * [atom] (https://www.atom.io)
 
-
+# As someone said, a quote I enjoy to "re-use"
+> knowledge is knowing a tomato is a fruit,
+> wisdom is knowing not to put it in a fruit salad
 
 :tada:
