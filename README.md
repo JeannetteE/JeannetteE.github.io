@@ -14,5 +14,5 @@ So far I have been confused learning these tools
 > knowledge is knowing a tomato is a fruit,
 > wisdom is knowing not to put it in a fruit salad
 
-![laurel & Hardy](http://www.doctormacro.com/Images/Laurel%20and%20Hardy/Annex/Annex%20-%20Laurel%20&%20Hardy%20%28Big%20Noise,%20The%29_07.jpg)
+![Laurel & Hardy](http://www.doctormacro.com/Images/Laurel%20and%20Hardy/Annex/Annex%20-%20Laurel%20&%20Hardy%20%28Big%20Noise,%20The%29_07.jpg)
 :tada:
